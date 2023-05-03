@@ -28,6 +28,5 @@ console.log({
     gas:gasTotal,
     random:randomTotal,
 });
-
-
+console.log(window);
 
